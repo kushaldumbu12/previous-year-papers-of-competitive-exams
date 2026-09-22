@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847186486454",
+    "project_id": "exam-papers-and-materials",
+    "storage_bucket": "exam-papers-and-materials.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847186486454:android:75288fc8ac3743fefb3217",
+        "android_client_info": {
+          "package_name": "com.example.govt_exam_papers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZPi1dvNfhL17pPtRlZixY30YvIS2kyPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
